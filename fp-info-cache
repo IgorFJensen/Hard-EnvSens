@@ -1,4 +1,4 @@
-26731619350811624
+26752814245340551
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -385,6 +385,13 @@ battery CR-3032 coin cell vertical
 2
 2
 Biblioteca_Kicad
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
+Biblioteca_Kicad
 LGA8S145X65P2X4_200X250X110-V
 Original name <b>LGA8S145X65P2X4_200X250X110-V</b><p>Max Component Height - 1.1mm
 
@@ -412,6 +419,13 @@ SOT95P280X145-5N
 0
 5
 5
+Biblioteca_Kicad
+SW_3-1437565-0
+
+
+0
+4
+4
 Biblioteca_Kicad
 XCVR_ESP32-C6-WROOM-1-N8
 
@@ -106637,3 +106651,73 @@ Varistor VF
 0
 2
 2
+libs
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
+libs
+LGA8S145X65P2X4_200X250X110-V
+Original name <b>LGA8S145X65P2X4_200X250X110-V</b><p>Max Component Height - 1.1mm
+
+0
+8
+8
+libs
+PSON80P310X200X110-8N
+
+
+0
+8
+8
+libs
+SHT4X
+Consumer SHT4x Digital and Analog
+
+0
+4
+4
+libs
+SOT95P280X145-5N
+
+
+0
+5
+5
+libs
+SW_3-1437565-0
+
+
+0
+4
+4
+libs
+XCVR_ESP32-C6-WROOM-1-N8
+
+
+0
+49
+49
+libs
+XDCR_DPS310
+
+
+0
+8
+8
+libs
+XDCR_SGP41-D-R4
+
+
+0
+7
+7
+libs
+XDCR_VEML7700-TR
+
+
+0
+4
+4
