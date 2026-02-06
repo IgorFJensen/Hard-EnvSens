@@ -1,4 +1,4 @@
-26752814245340551
+26754584596491179
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106679,6 +106679,13 @@ Consumer SHT4x Digital and Analog
 0
 4
 4
+libs
+SOP127P600X165-9N
+
+
+0
+9
+9
 libs
 SOT95P280X145-5N
 
