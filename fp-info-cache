@@ -1,4 +1,4 @@
-27249145169382554
+27252694194962593
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107947,6 +107947,13 @@ Botao KH-6X6X5H-STM
 4
 4
 libs
+DIO_PMEG6045ETPX
+
+
+0
+2
+2
+libs
 HRO_TYPE-C-31-M-12
 
 
@@ -107988,6 +107995,13 @@ SOT95P280X145-5N
 0
 5
 5
+libs
+SOT95P280X145-6N
+
+
+0
+6
+6
 libs
 SW_3-1437565-0
 
