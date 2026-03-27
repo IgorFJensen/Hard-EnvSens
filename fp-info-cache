@@ -1,4 +1,4 @@
-27252694194962593
+27256243552493157
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107961,6 +107961,13 @@ HRO_TYPE-C-31-M-12
 16
 16
 libs
+Hole 3mm
+
+
+0
+1
+1
+libs
 LGA8S145X65P2X4_200X250X110-V
 Original name <b>LGA8S145X65P2X4_200X250X110-V</b><p>Max Component Height - 1.1mm
 
@@ -108009,6 +108016,13 @@ SW_3-1437565-0
 0
 4
 4
+libs
+Untitled
+
+
+0
+0
+0
 libs
 XCVR_ESP32-C6-WROOM-1-N8
 
