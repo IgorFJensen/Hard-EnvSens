@@ -2225,7 +2225,7 @@
 			)
 		)
 	)
-	(footprint "libs:XCVR_ESP32-C6-WROOM-1-N8"
+	(footprint "EnvSens:XCVR_ESP32-C6-WROOM-1-N8"
 		(layer "F.Cu")
 		(uuid "0d3274d5-b157-4a78-86bb-45d55d95003c")
 		(at 146.61 79.935 -90)
@@ -8289,7 +8289,7 @@
 			)
 		)
 	)
-	(footprint "libs:XDCR_VEML7700-TR"
+	(footprint "EnvSens:XDCR_VEML7700-TR"
 		(layer "F.Cu")
 		(uuid "4f5a8f55-d223-45a4-a574-5a24aa5674e9")
 		(at 111.317 126.07 90)
@@ -9267,7 +9267,7 @@
 			)
 		)
 	)
-	(footprint "libs:SOT95P280X145-6N"
+	(footprint "EnvSens:SOT95P280X145-6N"
 		(layer "F.Cu")
 		(uuid "5adbeda9-8674-446c-bd2c-d14e9ab32885")
 		(at 128.33 82.7 -90)
@@ -9695,7 +9695,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "libs:Botao KH-6X6X5H-STM"
+	(footprint "EnvSens:Botao KH-6X6X5H-STM"
 		(layer "F.Cu")
 		(uuid "5ba72dfc-7bba-432b-bcb0-fac41479db76")
 		(at 145.86 54.43 180)
@@ -12773,7 +12773,7 @@
 			)
 		)
 	)
-	(footprint "libs:Botao KH-6X6X5H-STM"
+	(footprint "EnvSens:Botao KH-6X6X5H-STM"
 		(layer "F.Cu")
 		(uuid "681f3037-54d6-477c-8362-9bf74d1572e0")
 		(at 104.06 97.74 90)
@@ -13431,7 +13431,7 @@
 			)
 		)
 	)
-	(footprint "libs:SOP127P600X165-9N"
+	(footprint "EnvSens:SOP127P600X165-9N"
 		(layer "F.Cu")
 		(uuid "71815a56-85ab-42f8-8910-62da1b171fe6")
 		(at 117.2 68.01)
@@ -14671,7 +14671,7 @@
 			)
 		)
 	)
-	(footprint "libs:LGA8S145X65P2X4_200X250X110-V"
+	(footprint "EnvSens:LGA8S145X65P2X4_200X250X110-V"
 		(layer "F.Cu")
 		(uuid "7f2c3931-1d0a-4e60-b8f1-0f72317b8176")
 		(at 120.717 115.77 90)
@@ -15361,7 +15361,7 @@
 			)
 		)
 	)
-	(footprint "libs:SOT95P280X145-5N"
+	(footprint "EnvSens:SOT95P280X145-5N"
 		(layer "F.Cu")
 		(uuid "8bafb159-43b1-42fa-82f6-c519512f31b9")
 		(at 122.485 90.07)
@@ -18606,7 +18606,7 @@
 			)
 		)
 	)
-	(footprint "libs:HRO_TYPE-C-31-M-12"
+	(footprint "EnvSens:HRO_TYPE-C-31-M-12"
 		(layer "F.Cu")
 		(uuid "bee7f2fb-bbae-45c0-be2b-62946735b6f2")
 		(at 103.1 79.7 -90)
@@ -19794,7 +19794,7 @@
 			)
 		)
 	)
-	(footprint "libs:SHT4X"
+	(footprint "EnvSens:SHT4X"
 		(layer "F.Cu")
 		(uuid "c14464a8-c6db-49b7-ac8d-1d1145df48f0")
 		(at 129.717 114.57 -90)
@@ -21691,7 +21691,7 @@
 			)
 		)
 	)
-	(footprint "libs:XDCR_SGP41-D-R4"
+	(footprint "EnvSens:XDCR_SGP41-D-R4"
 		(layer "F.Cu")
 		(uuid "cf7429c4-1351-49a6-8770-b2e8675ad80f")
 		(at 111.267 114.37)
@@ -22494,7 +22494,7 @@
 			)
 		)
 	)
-	(footprint "libs:Botao KH-6X6X5H-STM"
+	(footprint "EnvSens:Botao KH-6X6X5H-STM"
 		(layer "F.Cu")
 		(uuid "d3b07c7f-a762-4578-badc-f13b3e173bf5")
 		(at 132.11 54.49 180)

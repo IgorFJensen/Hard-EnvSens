@@ -1,0 +1,27 @@
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(symbol "VM3011"
+		(exclude_from_sim no) (in_bom yes) (on_board yes)
+		(property "Reference" "MK" (at -10.16 8.89 0) (effects (font (size 1.27 1.27)) (justify left)))
+		(property "Value" "VM3011" (at 2.54 8.89 0) (effects (font (size 1.27 1.27)) (justify left)))
+		(property "Footprint" "EnvSens:VM3011" (at 0 -15.24 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/learn_tutorials/1/7/9/1/Vesper_Technologies_VM3011_Datasheet_5b5_5d-1893207.pdf" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "Description" "Vesper piezo MEMS microphone, PDM output, ZeroPower Listening wake-on-sound (DOUT), I2C threshold config (0x60 L/R=GND, 0x61 L/R=VDD), 1.6-3.6V" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(property "ki_keywords" "microphone MEMS PDM wake-on-sound ZPL I2C" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+		(symbol "VM3011_0_1"
+			(rectangle (start -10.16 7.62) (end 10.16 -7.62) (stroke (width 0.254) (type default)) (fill (type background)))
+		)
+		(symbol "VM3011_1_1"
+			(pin power_in line (at -12.7 5.08 0) (length 2.54) (name "VDD" (effects (font (size 1.27 1.27)))) (number "6" (effects (font (size 1.27 1.27)))))
+			(pin input line (at -12.7 2.54 0) (length 2.54) (name "CLK" (effects (font (size 1.27 1.27)))) (number "5" (effects (font (size 1.27 1.27)))))
+			(pin input line (at -12.7 0 0) (length 2.54) (name "SCL" (effects (font (size 1.27 1.27)))) (number "4" (effects (font (size 1.27 1.27)))))
+			(pin bidirectional line (at -12.7 -2.54 0) (length 2.54) (name "SDA" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+			(pin input line (at -12.7 -5.08 0) (length 2.54) (name "L/R_SELECT" (effects (font (size 1.27 1.27)))) (number "7" (effects (font (size 1.27 1.27)))))
+			(pin output line (at 12.7 2.54 180) (length 2.54) (name "DATA" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+			(pin output line (at 12.7 -2.54 180) (length 2.54) (name "DOUT" (effects (font (size 1.27 1.27)))) (number "3" (effects (font (size 1.27 1.27)))))
+			(pin power_in line (at 0 -10.16 90) (length 2.54) (name "GND" (effects (font (size 1.27 1.27)))) (number "8" (effects (font (size 1.27 1.27)))))
+		)
+	)
+)
